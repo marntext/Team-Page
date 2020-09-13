@@ -20,7 +20,7 @@
 
 h1 {
     font-size: 40px;
-    margin: 50px 300px 10px 100px;
+    margin: 50px 90px 10px 60px;
     display: block ;
     height: auto;
     font-family: 'PT Serif', serif;
@@ -34,16 +34,15 @@ h2 {
 }
 
 #intro1 {
-    min-width: 800px;
+    min-width: 600px;
     height: 100px;
-    margin-left: 20px;
 }
 
 #intro2 {
     font-size: 20px;
-    width: 560px;
+    width: 500px;
     height: 250px;
-    margin: 45px 70px 10px 50px;
+    margin: 45px 40px 10px 50px;
 }
 
 p {
